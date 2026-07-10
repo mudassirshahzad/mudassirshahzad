@@ -93,24 +93,6 @@ status: Building production-grade platforms...
 - AWS Certified Solutions Architect – Professional
 - TOGAF Enterprise Architecture
 
-## 📊 GitHub Widgets
-
-
-```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudassirshahzad&show_icons=true&theme=tokyonight)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=mudassirshahzad&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirshahzad&layout=compact&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mudassirshahzad&theme=tokyo-night)
-```
-
-## 🐍 Snake
-
-```markdown
-![Snake](https://raw.githubusercontent.com/mudassirshahzad/mudassirshahzad/output/github-contribution-grid-snake.svg)
-```
 
 ## 📊 GitHub Widgets
 
