@@ -95,22 +95,21 @@ status: Building production-grade platforms...
 
 ## 📊 GitHub Widgets
 
-Replace **YOUR_USERNAME** with your GitHub username.
 
 ```markdown
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudassirshahzad&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=mudassirshahzad&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudassirshahzad&layout=compact&theme=tokyonight)
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mudassirshahzad&theme=tokyo-night)
 ```
 
 ## 🐍 Snake
 
 ```markdown
-![Snake](https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg)
+![Snake](https://raw.githubusercontent.com/mudassirshahzad/mudassirshahzad/output/github-contribution-grid-snake.svg)
 ```
 
 ## 🌐 Connect
