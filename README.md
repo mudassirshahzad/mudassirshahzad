@@ -96,7 +96,7 @@ status: Building production-grade platforms...
 
 ## 📊 GitHub Widgets
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudassirshahzad&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=mudassirshahzad&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=mudassirshahzad&theme=tokyonight)
 
